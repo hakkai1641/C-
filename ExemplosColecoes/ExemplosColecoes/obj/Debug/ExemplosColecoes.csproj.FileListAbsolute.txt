@@ -1,0 +1,6 @@
+c:\users\1713623\documents\visual studio 2015\Projects\ExemplosColecoes\ExemplosColecoes\bin\Debug\ExemplosColecoes.exe.config
+c:\users\1713623\documents\visual studio 2015\Projects\ExemplosColecoes\ExemplosColecoes\bin\Debug\ExemplosColecoes.exe
+c:\users\1713623\documents\visual studio 2015\Projects\ExemplosColecoes\ExemplosColecoes\bin\Debug\ExemplosColecoes.pdb
+c:\users\1713623\documents\visual studio 2015\Projects\ExemplosColecoes\ExemplosColecoes\obj\Debug\ExemplosColecoes.csprojResolveAssemblyReference.cache
+c:\users\1713623\documents\visual studio 2015\Projects\ExemplosColecoes\ExemplosColecoes\obj\Debug\ExemplosColecoes.exe
+c:\users\1713623\documents\visual studio 2015\Projects\ExemplosColecoes\ExemplosColecoes\obj\Debug\ExemplosColecoes.pdb

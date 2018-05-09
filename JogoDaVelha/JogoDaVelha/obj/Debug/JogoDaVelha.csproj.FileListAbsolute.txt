@@ -1,0 +1,6 @@
+c:\users\1713623\documents\visual studio 2015\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+c:\users\1713623\documents\visual studio 2015\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+c:\users\1713623\documents\visual studio 2015\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+c:\users\1713623\documents\visual studio 2015\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojResolveAssemblyReference.cache
+c:\users\1713623\documents\visual studio 2015\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+c:\users\1713623\documents\visual studio 2015\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
